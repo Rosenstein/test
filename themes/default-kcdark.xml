@@ -14,11 +14,11 @@
 
 	<website>http://www.kalucity.co.cc/</website>
 
-	<source>https://github.com/Rosenstein/test/themes/default-kcdark.xml</source>
+	<source>https://github.com/Rosenstein/test/raw/main/themes/default-kcdark.xml</source>
 
-	<image>https://github.com/Rosenstein/test/themes/default-kcdark.png</image>
+	<image>https://github.com/Rosenstein/test/raw/main/themes/default-kcdark.png</image>
 
-	<file>https://github.com/Rosenstein/test/themes/default-kcdark.zip</file>
+	<file>https://github.com/Rosenstein/test/raw/main/themes/default-kcdark.zip</file>
 
 	<description>Dark skin for {$parent} theme.</description>
 
