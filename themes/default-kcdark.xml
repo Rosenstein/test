@@ -8,7 +8,7 @@
 	<website>http://www.kalucity.co.cc/</website>
 	<source>https://raw.githubusercontent.com/Rosenstein/test/main/themes/default-kcdark.xml</source>
 	<image>https://raw.githubusercontent.com/Rosenstein/test/main/themes/default-kcdark.png</image>
-	<file>https://raw.githubusercontent.com/Rosenstein/test/main/themes/default-kcdark.zip/file>
+	<file>https://raw.githubusercontent.com/Rosenstein/test/main/themes/default-kcdark.zip</file>
 	<description>Dark skin for {$parent} theme.</description>
 </theme>
 
