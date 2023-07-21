@@ -1,26 +1,14 @@
 <?xml version='1.0' encoding='utf-8' ?>
-
 <theme>
-
 	<name>default-kcdark</name>
-
 	<parent>default</parent>
-
 	<version>1.1</version>
-
 	<title>KaluCity Dark Theme (Dark Grey / Orange)</title>
-
 	<author email="kalucity@gmail.com">XAOC</author>
-
 	<website>http://www.kalucity.co.cc/</website>
-
 	<source>https://github.com/Rosenstein/test/raw/main/themes/default-kcdark.xml</source>
-
 	<image>https://github.com/Rosenstein/test/raw/main/themes/default-kcdark.png</image>
-
 	<file>https://github.com/Rosenstein/test/raw/main/themes/default-kcdark.zip</file>
-
 	<description>Dark skin for {$parent} theme.</description>
-
 </theme>
 
